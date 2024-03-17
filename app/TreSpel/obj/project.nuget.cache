@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dg+lhOVnfz8DrfBK+cOrmBM9ntTPLV+O33Um9x91tItCahVEsHgX1VQ1H4Z5EPibl5Q1woztyM10eRy/0vMO0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\46725\\Desktop\\Work - In Progress\\repo\\TreSpel\\app\\TreSpel\\TreSpel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\46725\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\46725\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\46725\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\46725\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

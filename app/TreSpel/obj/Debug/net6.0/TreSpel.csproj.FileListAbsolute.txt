@@ -1,0 +1,15 @@
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.AssemblyInfoInputs.cache
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.AssemblyInfo.cs
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.csproj.CoreCompileInputs.cache
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.sourcelink.json
+C:\Users\46725\source\repos\TreSpel\bin\Debug\net6.0\TreSpel.exe
+C:\Users\46725\source\repos\TreSpel\bin\Debug\net6.0\TreSpel.deps.json
+C:\Users\46725\source\repos\TreSpel\bin\Debug\net6.0\TreSpel.runtimeconfig.json
+C:\Users\46725\source\repos\TreSpel\bin\Debug\net6.0\TreSpel.dll
+C:\Users\46725\source\repos\TreSpel\bin\Debug\net6.0\TreSpel.pdb
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.dll
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\refint\TreSpel.dll
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.pdb
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\TreSpel.genruntimeconfig.cache
+C:\Users\46725\source\repos\TreSpel\obj\Debug\net6.0\ref\TreSpel.dll
